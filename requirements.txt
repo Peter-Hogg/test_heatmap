@@ -4,7 +4,8 @@
 #
 #    pip-compile
 #
-plotly           # via matplotlib
+appmode
+plotly          
 numpy
 pandas
 ipywidgets
